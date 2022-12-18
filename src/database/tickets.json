@@ -1,0 +1,200 @@
+[
+    {
+        "descri": "Show Oficina G3",
+        "categorie": "ROCK",
+        "date": "02-03-2023",
+        "hour": "20:30",
+        "local": "Av. Nove de Julho, 1100 - Bela Vista, São Paulo - SP, 01312-000",
+        "img": "https://melhoresmusicas.net/wp-content/uploads/2017/02/ouvir-musicas-oficina-g3.jpg",
+        "value": 820.50
+    },
+    {
+        "descri": "Show Evanescense no night festival",
+        "categorie": "ROCK",
+        "date": "04-03-2023",
+        "hour": "19:30",
+        "local": "Av. Nove de Julho, 1100 - Bela Vista, São Paulo - SP, 01312-000",
+        "img": "https://universodorock.com/wp-content/uploads/2017/04/3X5A1031.jpg",
+        "value": 620.50
+    },
+    {
+        "descri": "Show Taylor Swift",
+        "categorie": "POP",
+        "date": "06-03-2023",
+        "hour": "20:30",
+        "local": "R. dos Arcos, s/n - Centro, Rio de Janeiro - RJ",
+        "img": "https://midias.correiobraziliense.com.br/_midias/jpg/2021/04/09/675x450/1_areaaa-6604273.jpg",
+        "value": 820.50
+    },
+    {
+        "descri": "Bruno Mars",
+        "categorie": "POP",
+        "date": "07-03-2023",
+        "hour": "20:30",
+        "local": "R. Quintino Bocaiúva, 22 - Sé, São Paulo - SP",
+        "img": "https://akamai.sscdn.co/uploadfile/letras/fotos/1/e/8/a/1e8a37de4b4da507a4ef5da85020c8e4.jpg",
+        "value": 720.50
+    },
+    {
+        "descri": "Shawn Mendes",
+        "categorie": "POP",
+        "date": "07-03-2023",
+        "hour": "21:30",
+        "local": "Casa Aragon Praça Prof. Rômulo Ribeiro Pieroni, s/n - Butantã, São Paulo - SP",
+        "img": "https://web.portalsucesso.com.br/wp-content/uploads/2020/12/shawn-mendes-.png",
+        "value": 620.50
+    },
+    {
+        "descri": "Demi Lovato",
+        "categorie": "POP",
+        "date": "09-03-2023",
+        "hour": "18:30",
+        "local": "R. Gomes de Carvalho, 1666 - Vila Olímpia, São Paulo - SP",
+        "img": "https://metropolitanafm.com.br/wp-content/uploads/2022/04/Demi-Lovato-Biografia-Ultimas-Noticias-Curiosidades-Idade-e-muito-mais-Compartilhar-no-Facebook-.jpg",
+        "value": 920.50
+    },
+    {
+        "descri": "Avril Lavigne",
+        "categorie": "POP",
+        "date": "10-03-2023",
+        "hour": "20:30",
+        "local": "Rua Cardeal Arcoverde, 2899 - Pinheiros, São Paulo - SP",
+        "img": "https://www.documentodoestudante.com.br/blog/wp-content/uploads/2022/08/avril3.jpg",
+        "value": 670.20
+    },
+    {
+        "descri": "Ed Sheeran",
+        "categorie": "POP",
+        "date": "11-03-2023",
+        "hour": "22:30",
+        "local": "Rua Cardeal Arcoverde, 2899 - Pinheiros, São Paulo - SP",
+        "img": "https://popnow.com.br/wp-content/uploads/2017/05/ed_sheeran.jpg",
+        "value": 1220.50
+    },
+    {
+        "descri": "Shakira",
+        "categorie": "POP",
+        "date": "11-03-2023",
+        "hour": "20:30",
+        "local": "R. Artur de Azevedo, 2134 - Pinheiros, São Paulo - SP",
+        "img": "https://i.uai.com.br/lG7ILrq6pPnPWYabHADb7KGL8_Q=/750x0/imgsapp2.uai.com.br/app/noticia_133890394703/2022/12/08/310646/shakira-foto-reproducao_1_33513.jpeg",
+        "value": 920.50
+    },
+    {
+        "descri": "Christina Perri",
+        "categorie": "POP",
+        "date": "11-03-2023",
+        "hour": "16:30",
+        "local": "R. Artur de Azevedo, 2134 - Pinheiros, São Paulo - SP",
+        "img": "https://www.otempo.com.br/image/contentid/policy:1.2417144:1606311554/Cristinas-jpg.jpg",
+        "value": 890.50
+    },
+    {
+        "descri": "Lukas Graham",
+        "categorie": "POP",
+        "date": "12-03-2023",
+        "hour": "20:30",
+        "local": "R. Artur de Azevedo, 2134 - Pinheiros, São Paulo - SP",
+        "img": "https://cdn1023.clicrbs.com.br/wp-content/uploads/sites/2/2021/12/lukas-1.jpeg",
+        "value": 830.50
+    },
+    {
+        "descri": "Celine Dion",
+        "categorie": "POP",
+        "date": "14-03-2023",
+        "hour": "20:30",
+        "local": "Rua 27 de Janeiro, 7 - Carmo, Olinda - PE",
+        "img": "https://i.em.com.br/1QtXaS_tiLFvdD-pYvf6mZ-9WP0=/790x/smart/imgsapp.em.com.br/app/noticia_127983242361/2022/12/13/1432904/celine-dion_1_34224.jpg",
+        "value": 890.50
+    },
+    {
+        "descri": "Lady Gaga",
+        "categorie": "POP",
+        "date": "14-03-2023",
+        "hour": "22:30",
+        "local": "R. Gomes de Carvalho, 1666 - Vila Olímpia, São Paulo - SP",
+        "img": "https://cdn.jd1noticias.com/upload/dn_arquivo/2022/11/download-21.jpg",
+        "value": 890.50
+    },
+    {
+        "descri": "Billie Eilish",
+        "categorie": "POP",
+        "date": "14-03-2023",
+        "hour": "21:30",
+        "local": "R. Gomes de Carvalho, 1666 - Vila Olímpia, São Paulo - SP",
+        "img": "https://assets.b9.com.br/wp-content/uploads/2021/07/Billie-Eilish-Happier-Than-Ever-cover.jpg",
+        "value": 890.50
+    },
+    {
+        "descri": "Ariana Grande",
+        "categorie": "POP",
+        "date": "15-03-2023",
+        "hour": "19:30",
+        "local": "",
+        "img": "https://www.rbsdirect.com.br/imagesrc/25435245.jpg?w=700",
+        "value": 890.50
+    },
+    {
+        "descri": "Pearl Jam",
+        "categorie": "ROCK",
+        "date": "15-03-2023",
+        "hour": "16:30",
+        "local": "Vivo Rio - Av. Infante Dom Henrique, 85  Parque do Flamengo",
+        "img": "https://ogimg.infoglobo.com.br/rioshow/21995025-e7c-62b/FT1086A/Pearl-Jam.jpg",
+        "value": 890.50
+    },
+    {
+        "descri": "Aerosmith",
+        "categorie": "ROCK",
+        "date": "17-03-2023",
+        "hour": "20:00",
+        "local": "Vivo Rio - Av. Infante Dom Henrique, 85  Parque do Flamengo",
+        "img": "https://clube-static.clubegazetadopovo.com.br/portal/wp-content/uploads/2020/04/materiasrepositorio517-1503672193.jpeg",
+        "value": 890.50
+    },
+    {
+        "descri": "The Cure",
+        "categorie": "ROCK",
+        "date": "20-03-2023",
+        "hour": "22:30",
+        "local": "Espaço Hall - Av. Ayrton Senna, 5850  Gardênia Azul",
+        "img": "https://www.radiorock.com.br/wp-content/uploads/2019/09/the-cure.jpg",
+        "value": 890.50
+    },
+    {
+        "descri": "Titãs",
+        "categorie": "POP-ROCK",
+        "date": "22-03-2023",
+        "hour": "21:30",
+        "local": "Espaço Hall - Av. Ayrton Senna, 5850 Gardênia Azul",
+        "img": "https://arte.estadao.com.br/public/pages/96/dq/pk/9g/vp/w2/TITAS_ABRE.jpg",
+        "value": 890.50
+    },
+    {
+        "descri": "Oasis",
+        "categorie": "ROCK",
+        "date": "23-03-2023",
+        "hour": "20:30",
+        "local": "Espaço Hall - Av. Ayrton Senna, 5850 Gardênia Azul",
+        "img": "https://s2.glbimg.com/vcdRKUYdszQhh4P92UnimxGXFgE=/smart/e.glbimg.com/og/ed/f/original/2017/11/26/noel-2.jpg",
+        "value": 890.50
+    },
+    {
+        "descri": "Madonna",
+        "categorie": "POP",
+        "date": "25-03-2023",
+        "hour": "20:30",
+        "local": "R. Tagipuru, 795 Barra Funda",
+        "img": "https://www.ofuxico.com.br/wp-content/uploads/2022/10/madonna-selfie-de-cabelo-rosa.jpg",
+        "value": 720.50
+    },
+    {
+        "descri": "Dua Lipa",
+        "categorie": "POP",
+        "date": "02-04-2023",
+        "hour": "22:30",
+        "local": "Av. das Nações Unidas, 17955",
+        "img": "https://cdn.folhape.com.br/img/pc/1100/1/dn_arquivo/2020/08/dua-lipa-1-800x535-editado.jpg",
+        "value": 1340.20
+    }
+]

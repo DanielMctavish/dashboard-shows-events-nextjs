@@ -1,0 +1,47 @@
+.navmenu {
+    position: absolute;
+    left: -499px;
+    width: 500px;
+    height: 100vh;
+    background: linear-gradient(to bottom, rgb(24, 24, 24), rgb(0, 13, 37));
+    border-right: 1px solid white;
+    transition: .3s;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.user-status{
+    position: relative;
+    top: 2vh;
+    width: 350px;
+    min-height: 110px;
+    font-size: 18pt;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+
+.user-status img{
+    position: relative;
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 50%;
+}
+
+.navmenu.active {
+    left: 0px;
+    transition: .3s;
+}
+
+.user-events{
+    position: relative;
+    top: 5vh;
+    font-size: 18pt;
+    cursor: pointer;
+}
